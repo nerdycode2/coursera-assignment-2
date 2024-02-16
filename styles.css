@@ -9,8 +9,13 @@ h1 {
     border-width: 20px;
 }
 p {
-    border: 10px;
-    background-color: rgb(250, 254, 137);
+    border: 30px; 
+    rectangle { 
+        width: 1000px;
+        height:800px ;
+    }
+    background-color: rgb(237, 238, 196);
+    
 }
 
 .row {
@@ -63,3 +68,6 @@ p {
         width: 100% 
     }
 }
+
+
+
